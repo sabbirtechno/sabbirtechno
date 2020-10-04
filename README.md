@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sabbir Hossain. Welcome To My Profile 😎
 
-<img align="right" alt="GIF" src="https://assets4.lottiefiles.com/packages/lf20_1LhsaB.json" />
-  <!-- <img align="right" alt="GIF" src="https://assets4.lottiefiles.com/packages/lf20_1LhsaB.json" /> -->
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+  <!-- <img align="right" alt="GIF" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /> -->
 
 ## I'm a Freelancer, Developer, and Programmer!
 - ⚡ Tech Enthusiast ❤ Love To Learn New Tech Skills.
@@ -16,7 +16,6 @@
 [<img align="left" alt="Sabbir" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Sabbir | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][twitter]
 [<img align="left" alt="sabbir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sabbir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Sabbir | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 
 <br />
@@ -46,5 +45,5 @@
 [linkedin]: https://linkedin.com/in/sabbir-developer
 [facebook]: https://facebook.com/sabbirsite
 
-# Show some ❤️ by starring some of the repositories!
+# Show some ❤️ by starring some of my repositories!
 
