@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sabbir Hossain. Welcome To My Profile 😎
 
-<img align="right" alt="GIF" src="https://digital.homegiraffe.com.au/wp-content/uploads/2019/08/laptop.gif" />
-  <!-- <img align="right" alt="GIF" src="https://digital.homegiraffe.com.au/wp-content/uploads/2019/08/laptop.gif" /> -->
+<img align="right" alt="GIF" src="https://assets.materialup.com/uploads/b54e740a-e3cf-4da2-b334-67331c307036/preview.gif" />
+  <!-- <img align="right" alt="GIF" src="https://assets.materialup.com/uploads/b54e740a-e3cf-4da2-b334-67331c307036/preview.gif" /> -->
 
 ## I'm a Freelancer, Developer, and Programmer!
 - ⚡ Tech Enthusiast ❤ Love To Learn New Tech Skills.
@@ -38,7 +38,7 @@
 <br />
 <br />
 
---- 📲Contact ME:
+-- 📲Contact ME: Thanks for Visiting
 
 [website]: https://www.sabbirsite.com
 [twitter]: https://twitter.com/sabbirsite
