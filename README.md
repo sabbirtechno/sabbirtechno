@@ -15,7 +15,6 @@
 ### Connect with me:
 
 [<img align="left" alt="Sabbir" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Sabbir | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][twitter]
 [<img align="left" alt="sabbir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sabbir | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 
@@ -39,10 +38,9 @@
 <br />
 <br />
 
--- 📲Contact ME: Thanks for Visiting
+-- 📲 Contact ME: Thanks for Visiting
 
 [website]: https://www.sabbirsite.com
-[Youtube]: https://www.youtube.com/
 [linkedin]: https://linkedin.com/in/sabbir-developer
 [facebook]: https://facebook.com/sabbirsite
 
