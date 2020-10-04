@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sabbir Hossain. Welcome To My Profile 😎
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-  <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
+<img align="right" alt="GIF" src="https://assets4.lottiefiles.com/packages/lf20_1LhsaB.json" />
+  <!-- <img align="right" alt="GIF" src="https://assets4.lottiefiles.com/packages/lf20_1LhsaB.json" /> -->
 
 ## I'm a Freelancer, Developer, and Programmer!
 - ⚡ Tech Enthusiast ❤ Love To Learn New Tech Skills.
@@ -23,8 +23,6 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][androidplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][pythonprojectplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][website]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][website]
@@ -47,3 +45,6 @@
 [twitter]: https://twitter.com/sabbirsite
 [linkedin]: https://linkedin.com/in/sabbir-developer
 [facebook]: https://facebook.com/sabbirsite
+
+# Show some ❤️ by starring some of the repositories!
+
