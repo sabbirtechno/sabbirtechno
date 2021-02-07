@@ -6,11 +6,11 @@
 
 ## I'm a Freelancer, Developer, and Programmer!
 - ⚡ Tech Enthusiast ❤ Love To Learn New Tech Skills.
-- 🎓 I’m studying BSc in Computer Science & Engineering.
+- 🎓 I’m Computer Science & Engineering Graduate.
 - 🔭 I’m currently doing Freelance Projects. 
 - 🌱 I’m currently learning everything 😎
 - 💻 I’m doing Web Development & Digital Marketing.
-- 🥅 2020 Goals: Professional Mobile App Developer.
+- 🥅 Skills: Fast Learning, Management, Design, Problem Solving, Motivating. Hard-working
 
 ### Connect with me:
 
